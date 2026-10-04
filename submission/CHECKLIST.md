@@ -20,8 +20,8 @@
 ## Học viên còn cần hoàn thành
 
 - [ ] Review code và REPORT; giải thích được thay đổi; cá nhân hóa B2 vì bối cảnh và số liệu hiện là giả định thiết kế.
-- [x] URL repo bài nộp đã điền theo lựa chọn học viên: https://github.com/thanhnvhust514/K4-Track02-Day17-Data-Pipeline-Engineering.
-- [ ] Tên repo hiện tại chưa theo mẫu `K4-Track02-Day17-NguyenVietThanh-2A202602924-DataPipelineEngineering`; học viên đã yêu cầu push lên repo hiện tại.
+- [x] URL repo bài nộp đã cập nhật: https://github.com/thanhnvhust514/K4-Track02-Day17-NguyenVietThanh-2A202602924-DataPipelineEngineering.
+- [x] Repo đã đổi tên đúng mẫu `K4-Track02-Day17-NguyenVietThanh-2A202602924-DataPipelineEngineering`.
 - [x] Code, REPORT, checksums và bonus đã commit: `9209b744042e13a280a8771f0001aad2a0c3467b`; REPORT đã ghi SHA chứa code.
 - [x] Commit chứa code đã push lên origin/main đúng URL học viên chỉ định; commit tài liệu tiếp theo bổ sung SHA/checklist.
 - [ ] Mở URL repo ở trạng thái chưa đăng nhập để xác nhận public và các file bằng chứng hiện diện.
