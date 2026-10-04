@@ -6,7 +6,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 **Họ tên / MSSV:** Nguyễn Việt Thành / 2A202602924
 **Repo bài nộp (theo lựa chọn học viên):** https://github.com/thanhnvhust514/K4-Track02-Day17-Data-Pipeline-Engineering
 **Tên repo theo đề:** K4-Track02-Day17-NguyenVietThanh-2A202602924-DataPipelineEngineering; repo hiện tại chưa đổi tên.
-**Commit bài nộp:** [Bổ sung sau khi commit]
+**Commit chứa code và bằng chứng bài nộp:** `9209b744042e13a280a8771f0001aad2a0c3467b`; commit tài liệu tiếp theo chỉ bổ sung SHA và trạng thái checklist.
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Codex đọc đề, sửa ba lỗi, làm cache/schema gate B1, chạy kiểm tra, hỗ trợ REPORT và soạn thiết kế đề xuất B2. Học viên cần review, cá nhân hóa thiết kế và giải thích được thay đổi.
 **Nguồn tham khảo khác (nếu có):** Tài liệu trong repo đề bài.
 
